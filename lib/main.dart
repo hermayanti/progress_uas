@@ -68,7 +68,7 @@ class _MyHomePageState extends State<MyHomePage> {
         width: double.infinity,
         decoration: new BoxDecoration(
             image: DecorationImage(
-          image: AssetImage('assets/appimages/bunga.jpg'),
+          image: AssetImage('assets/appimages/bungaku.jpg'),
           fit: BoxFit.cover,
         )),
         child: new ListView(

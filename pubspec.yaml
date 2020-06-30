@@ -45,6 +45,10 @@ flutter:
   assets:
   - assets/appimages/1.jpg
   - assets/appimages/bunga.jpg
+  - assets/appimages/bungaku.jpg
+  - assets/appimages/herma.jpg
+  - assets/appimages/bg.jpg
+
 
   # To add assets to your application, add an assets section, like this:
   # assets:
